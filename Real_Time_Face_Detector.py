@@ -30,7 +30,7 @@ while True:
        
        #### Stop if Q key is pressed              
        # if Key==81 or Key==113:
-       # break
+       # break why this is written
        # webcam.release()
 print("Code Complete!") 
 
